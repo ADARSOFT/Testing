@@ -1,0 +1,12 @@
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\bin\Debug\ManualTestingExamples.exe.config
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\bin\Debug\ManualTestingExamples.exe
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\bin\Debug\ManualTestingExamples.pdb
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.csprojAssemblyReference.cache
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.Form1.resources
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.Properties.Resources.resources
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.csproj.GenerateResource.cache
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.exe
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.pdb
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.MainManuForm.resources
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.PrivateIndividualsForm.resources
+C:\Users\Damir\Desktop\temp\ForManualTesting\ManualTestingExamples\obj\Debug\ManualTestingExamples.PrivateIndividualsCards.resources
